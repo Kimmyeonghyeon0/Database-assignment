@@ -30,6 +30,10 @@ CREATE TABLE employees(
 -- FROM employees
 -- WHERE position = 'Backend';
 
+--DELETE FROM employees
+--WHERE name = '민혁';
+
+
 -- SELECT 
 --     position, 
 --     AVG(salary) as average_salary
